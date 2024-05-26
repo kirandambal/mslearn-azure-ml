@@ -1,5 +1,5 @@
 type: mltable
 paths:
-  - file: ./diabetes-training.parquet
+  - file: ./training.parquet
 transformations:
   - read_parquet
